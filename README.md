@@ -26,3 +26,9 @@ Jan 28 - Feb 4: MVP
 
 - Ruby AI for WhatsApp: An AI tool that automatically summarizes group chats, condensing extensive messages into concise summaries
 
+- WeChat AI Summarize Bot: This GitHub project provides a bot that helps group owners or administrators automatically collect chat records in group chats and uses AI to summarize them, sending the summaries back to the group. 
+
+- WeChat Chat Record Export and Analysis Tool: This tool allows WeChat users to extract and export chat records into various formats (HTML, Word, CSV) and supports analysis of the exported data. 
+
+- WeChat Bots for AI Summarization: Platforms like Restackio discuss the integration of AI summarization techniques into WeChat bots to enhance user engagement and streamline information delivery
+
