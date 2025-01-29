@@ -14,14 +14,11 @@ Jan 26: Product documentation
 
 Jan 27 - Jan 28: System design
 
-Jan 28 - Feb 4: MVP
+Jan 29 - Feb 10: MVP
 
 ### Market Research
 
-- Summarize.one: This tool transcribes and summarizes WhatsApp voice messages and lengthy text messages, allowing users to quickly grasp the main points.
-- Periskope: Offers AI-generated summaries of WhatsApp chats, aiding in managing groups, chats, and numbers at scale. 
 - Group Chat Summarizer: A Python-based script available on GitHub that processes exported chats from WhatsApp or Signal to provide conversation summaries. 
-- Ruby AI for WhatsApp: An AI tool that automatically summarizes group chats, condensing extensive messages into concise summaries
 
 - WeChat AI Summarize Bot: This GitHub project provides a bot that helps group owners or administrators automatically collect chat records in group chats and uses AI to summarize them, sending the summaries back to the group. 
 - WeChat Bots for AI Summarization: Platforms like Restackio discuss the integration of AI summarization techniques into WeChat bots to enhance user engagement and streamline information delivery
